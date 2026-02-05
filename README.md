@@ -20,7 +20,8 @@
 * Spring Security and backend architecture
 * Game design patterns and scalable software development
 
-### 💬 Ask me about<br>* Unity Engine (GameObjects, scripting, animations)
+### 💬 Ask me about
+* Unity Engine (GameObjects, scripting, animations)
 * Java + Spring Boot (APIs, Hibernate, Microservices)
 * React frontend development
 * Databases like MySQL and MongoDB
